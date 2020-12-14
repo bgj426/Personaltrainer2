@@ -4,7 +4,7 @@ function Calendar() {
     return (
         <div className="Calendar">
             <p>
-            Empty for now
+            Empty
             </p>
         </div>
       );
